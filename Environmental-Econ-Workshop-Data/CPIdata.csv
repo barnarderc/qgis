@@ -1,0 +1,169 @@
+Rank,CPI2015,Country,Region,wbcode
+1,91,Denmark,WE/EU,DNK
+2,90,Finland,WE/EU,FIN
+3,89,Sweden,WE/EU,SWE
+4,88,New Zealand,AP,NZL
+5,87,Netherlands,WE/EU,NLD
+5,87,Norway,WE/EU,NOR
+7,86,Switzerland,WE/EU,CHE
+8,85,Singapore,AP,SGP
+9,83,Canada,AME,CAN
+10,81,Germany,WE/EU,DEU
+10,81,Luxembourg,WE/EU,LUX
+10,81,United Kingdom,WE/EU,GBR
+13,79,Australia,AP,AUS
+13,79,Iceland,WE/EU,ISL
+15,77,Belgium,WE/EU,BEL
+16,76,Austria,WE/EU,AUT
+16,76,The United States Of America,AME,USA
+18,75,Hong Kong,AP,HKG
+18,75,Ireland,WE/EU,IRL
+18,75,Japan,AP,JPN
+21,74,Uruguay,AME,URY
+22,71,Qatar,MENA,QAT
+23,70,Chile,AME,CHL
+23,70,Estonia,WE/EU,EST
+23,70,France,WE/EU,FRA
+23,70,United Arab Emirates,MENA,ARE
+27,65,Bhutan,AP,BTN
+28,63,Botswana,SSA,BWA
+28,63,Portugal,WE/EU,PRT
+30,62,Poland,WE/EU,POL
+30,62,Taiwan,AP,TWN
+32,61,Cyprus,WE/EU,CYP
+32,61,Israel,MENA,ISR
+32,61,Lithuania,WE/EU,LTU
+35,60,Slovenia,WE/EU,SVN
+36,58,Spain,WE/EU,ESP
+37,56,Czech Republic,WE/EU,CZE
+37,56,Korea (South),AP,KOR
+37,56,Malta,WE/EU,MLT
+40,55,Cape Verde,SSA,CPV
+40,55,Costa Rica,AME,CRI
+40,55,Latvia,WE/EU,LVA
+40,55,Seychelles,SSA,SYC
+44,54,Rwanda,SSA,RWA
+45,53,Jordan,MENA,JOR
+45,53,Mauritius,SSA,MUS
+45,53,Namibia,SSA,NAM
+48,52,Georgia,ECA,GEO
+48,52,Saudi Arabia,MENA,SAU
+50,51,Bahrain,MENA,BHR
+50,51,Croatia,WE/EU,HRV
+50,51,Hungary,WE/EU,HUN
+50,51,Slovakia,WE/EU,SVK
+54,50,Malaysia,AP,MYS
+55,49,Kuwait,MENA,KWT
+56,47,Cuba,AME,CUB
+56,47,Ghana,SSA,GHA
+58,46,Greece,WE/EU,GRC
+58,46,Romania,WE/EU,ROM
+60,45,Oman,MENA,OMN
+61,44,Italy,WE/EU,ITA
+61,44,Lesotho,SSA,LSO
+61,44,Montenegro,ECA,MON
+61,44,Senegal,SSA,SEN
+61,44,South Africa,SSA,ZAF
+66,42,Sao Tome and Principe,SSA,STP
+66,42,The FYR of Macedonia,ECA,MKD
+66,42,Turkey,ECA,TUR
+69,41,Bulgaria,WE/EU,BGR
+69,41,Jamaica,AME,JAM
+71,40,Serbia,ECA,SCG
+72,39,El Salvador,AME,SLV
+72,39,Mongolia,AP,MNG
+72,39,Panama,AME,PAN
+72,39,Trinidad and Tobago,AME,TTO
+76,38,Bosnia and Herzegovina,ECA,BIH
+76,38,Brazil,AME,BRA
+76,38,Burkina Faso,SSA,BFA
+76,38,India,AP,IND
+76,38,Thailand,AP,THA
+76,38,Tunisia,MENA,TUN
+76,38,Zambia,SSA,ZMB
+83,37,Benin,SSA,BEN
+83,37,China,AP,CHN
+83,37,Colombia,AME,COL
+83,37,Liberia,SSA,LBR
+83,37,Sri Lanka,AP,LKA
+88,36,Albania,ECA,ALB
+88,36,Algeria,MENA,DZA
+88,36,Egypt,MENA,EGY
+88,36,Indonesia,AP,IDN
+88,36,Morocco,MENA,MAR
+88,36,Peru,AME,PER
+88,36,Suriname,AME,SUR
+95,35,Armenia,ECA,ARM
+95,35,Mali,SSA,MLI
+95,35,Mexico,AME,MEX
+95,35,Philippines,AP,PHL
+99,34,Bolivia,AME,BOL
+99,34,Djibouti,SSA,DJI
+99,34,Gabon,SSA,GAB
+99,34,Niger,SSA,NER
+103,33,Dominican Republic,AME,DOM
+103,33,Ethiopia,SSA,ETH
+103,33,Kosovo,ECA,LWI
+103,33,Moldova,ECA,MDA
+107,32,Argentina,AME,ARG
+107,32,Belarus,ECA,BLR
+107,32,CÌ«te då«Ivoire,SSA,CIV
+107,32,Ecuador,AME,ECU
+107,32,Togo,SSA,TGO
+112,31,Honduras,AME,HND
+112,31,Malawi,SSA,MWI
+112,31,Mauritania,SSA,MRT
+112,31,Mozambique,SSA,MOZ
+112,31,Vietnam,AP,VNM
+117,30,Pakistan,AP,PAK
+117,30,Tanzania,SSA,TZA
+119,29,Azerbaijan,ECA,AZE
+119,29,Guyana,AME,GUY
+119,29,Russia,ECA,RUS
+119,29,Sierra Leone,SSA,SLE
+123,28,Gambia,SSA,GMB
+123,28,Guatemala,AME,GTM
+123,28,Kazakhstan,ECA,KAZ
+123,28,Kyrgyzstan,ECA,KGZ
+123,28,Lebanon,MENA,LBN
+123,28,Madagascar,SSA,MDG
+123,28,Timor-Leste,AP,TLS
+130,27,Cameroon,SSA,CMR
+130,27,Iran,MENA,IRN
+130,27,Nepal,AP,NPL
+130,27,Nicaragua,AME,NIC
+130,27,Paraguay,AME,PRY
+130,27,Ukraine,ECA,UKR
+136,26,Comoros,SSA,COM
+136,26,Nigeria,SSA,NGA
+136,26,Tajikistan,ECA,TJK
+139,25,Bangladesh,AP,BGD
+139,25,Guinea,SSA,GIN
+139,25,Kenya,SSA,KEN
+139,25,Laos,AP,LAO
+139,25,Papua New Guinea,AP,PNG
+139,25,Uganda,SSA,UGA
+145,24,Central African Republic,SSA,CAF
+146,23,Congo Republic,SSA,COG
+147,22,Chad,SSA,TCD
+147,22,Democratic Republic of the Congo,SSA,COD
+147,22,Myanmar,AP,MMR
+150,21,Burundi,SSA,BDI
+150,21,Cambodia,AP,KHM
+150,21,Zimbabwe,SSA,ZWE
+153,19,Uzbekistan,ECA,UZB
+154,18,Eritrea,SSA,ERI
+154,18,Syria,MENA,SYR
+154,18,Turkmenistan,ECA,TKM
+154,18,Yemen,MENA,YEM
+158,17,Haiti,AME,HTI
+158,17,Guinea-Bissau,SSA,GNB
+158,17,Venezuela,AME,VEN
+161,16,Iraq,MENA,IRQ
+161,16,Libya,MENA,LBY
+163,15,Angola,SSA,AGO
+163,15,South Sudan,SSA,
+165,12,Sudan,MENA,SDN
+166,11,Afghanistan,AP,AFG
+167,8,Korea (North),AP,PRK
+167,8,Somalia,SSA,SOM
